@@ -1,0 +1,20 @@
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\bin\Debug\net5.0\Selenium Testing.exe
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\bin\Debug\net5.0\Selenium Testing.deps.json
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\bin\Debug\net5.0\Selenium Testing.runtimeconfig.json
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\bin\Debug\net5.0\Selenium Testing.runtimeconfig.dev.json
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\bin\Debug\net5.0\Selenium Testing.dll
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\bin\Debug\net5.0\ref\Selenium Testing.dll
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\bin\Debug\net5.0\Selenium Testing.pdb
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\bin\Debug\net5.0\WebDriver.dll
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\obj\Debug\net5.0\Selenium Testing.csproj.AssemblyReference.cache
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\obj\Debug\net5.0\Selenium Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\obj\Debug\net5.0\Selenium Testing.AssemblyInfoInputs.cache
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\obj\Debug\net5.0\Selenium Testing.AssemblyInfo.cs
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\obj\Debug\net5.0\Selenium Testing.csproj.CoreCompileInputs.cache
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\obj\Debug\net5.0\Selenium Testing.csproj.CopyComplete
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\obj\Debug\net5.0\Selenium Testing.dll
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\obj\Debug\net5.0\ref\Selenium Testing.dll
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\obj\Debug\net5.0\Selenium Testing.pdb
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\obj\Debug\net5.0\Selenium Testing.genruntimeconfig.cache
+C:\Users\11036700\source\repos\Capstone Project\Selenium Testing\bin\Debug\net5.0\WebDriver.Support.dll

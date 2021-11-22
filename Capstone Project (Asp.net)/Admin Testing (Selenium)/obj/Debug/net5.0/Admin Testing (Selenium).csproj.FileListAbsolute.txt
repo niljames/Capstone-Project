@@ -1,0 +1,19 @@
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\bin\Debug\net5.0\Admin Testing (Selenium).exe
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\bin\Debug\net5.0\Admin Testing (Selenium).deps.json
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\bin\Debug\net5.0\Admin Testing (Selenium).runtimeconfig.json
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\bin\Debug\net5.0\Admin Testing (Selenium).runtimeconfig.dev.json
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\bin\Debug\net5.0\Admin Testing (Selenium).dll
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\bin\Debug\net5.0\ref\Admin Testing (Selenium).dll
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\bin\Debug\net5.0\Admin Testing (Selenium).pdb
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\bin\Debug\net5.0\WebDriver.dll
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\obj\Debug\net5.0\Admin Testing (Selenium).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\obj\Debug\net5.0\Admin Testing (Selenium).AssemblyInfoInputs.cache
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\obj\Debug\net5.0\Admin Testing (Selenium).AssemblyInfo.cs
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\obj\Debug\net5.0\Admin Testing (Selenium).csproj.CoreCompileInputs.cache
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\obj\Debug\net5.0\Admin Testing (Selenium).csproj.CopyComplete
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\obj\Debug\net5.0\Admin Testing (Selenium).dll
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\obj\Debug\net5.0\ref\Admin Testing (Selenium).dll
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\obj\Debug\net5.0\Admin Testing (Selenium).pdb
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\obj\Debug\net5.0\Admin Testing (Selenium).genruntimeconfig.cache
+C:\Users\11036700\source\repos\Capstone Project\Admin Testing (Selenium)\obj\Debug\net5.0\Admin Testing (Selenium).csproj.AssemblyReference.cache
